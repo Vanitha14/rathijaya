@@ -1,0 +1,18 @@
+#include<studio.h>
+#include<conio.h>
+void main()
+{
+int a,b,c;
+printf(" value of a,b");
+scant(&a,&b);
+c=a-b;
+printf(" the difference is",c);
+getch();
+}
+
+
+
+
+Output:
+Value of a,b: 50,40
+the difference is 10
