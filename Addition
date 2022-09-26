@@ -1,0 +1,10 @@
+#include<studio.h>
+#include<conio.h>
+void main()
+{
+int a=40,b=30;
+int c;
+c=a+b;
+printf(" sum is:",c);
+getch();
+}
