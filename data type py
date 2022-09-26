@@ -1,0 +1,18 @@
+x = "Welcome"                 
+print(type(x))    ///	str	
+x = 16
+print(type(x))   ///	int	
+x = 27.7	
+print(type(x))   ///float	
+x = 1j	
+print(type(x))   ///complex	
+x = ["apple", "banana", "cherry"]	
+print(type(x))    ///list	
+x = ("apple", "banana", "cherry")
+print(type(x))  ///tuple
+x={list, tuple, set, dict}
+print(type(x))   ///set
+x={name:vino, age:26}
+print(type(x))   ///dictionary
+x=true
+print(type(x))  ///boolean
