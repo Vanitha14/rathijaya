@@ -1,0 +1,7 @@
+a=7.7
+b=6.6
+num=a+b
+print("the sum is",num)
+
+Output
+the sum is 14.3
